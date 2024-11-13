@@ -13,15 +13,6 @@
     ".": {
       "import": "./src/index.ts",
       "require": "./src/index.ts"
-    },
-    "./style.css": {
-      "import": "./dist/style.css",
-      "require": "./dist/style.css"
-    },
-    "./js": {
-      "types": "./dist/types/main.d.ts",
-      "import": "./dist/lib.js",
-      "require": "./dist/lib.umd.cjs"
     }
   },
 	"scripts": {
